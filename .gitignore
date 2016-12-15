@@ -12,5 +12,3 @@ gradle.properties
 gradle/
 gradlew
 gradlew.bat
-app/libs/
-app/src/main/res/drawable/
