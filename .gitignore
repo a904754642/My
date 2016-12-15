@@ -1,0 +1,16 @@
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+/build
+.idea/
+app/build
+app/src/androidTest
+app/src/test
+gradle.properties
+gradle/
+gradlew
+gradlew.bat
+app/libs/
+app/src/main/res/drawable/
